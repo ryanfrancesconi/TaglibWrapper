@@ -1,10 +1,10 @@
+# TagLibKit: An SPM package for:
+
 # TaglibWrapper
 A simple Objective C++ wrapper to call Taglib from Swift. This implies that you have already built and added the tag.framework to your project.
 
-https://github.com/taglib/taglib
+Simply add `https://github.com/NCrusher74/TagLibKit.git` branch: `master` to your Swift Package Dependencies.
 
-## Import into your Bridging Header:
-#import "TaglibWrapper.h"
 
 ## Examples:
 
